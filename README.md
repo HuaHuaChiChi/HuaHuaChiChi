@@ -1,2 +1,2 @@
-### Studying front-end web development
-#### 2023/12/21 ~~
+프론트엔드 공부중입니다
+2023 / 12/ 21 부터 시작함
